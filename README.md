@@ -6,7 +6,7 @@
 
 ## About the Project 
 <ul>
-    <li>eCinema is an MVC e-commerce web application built by using C# and ASP.NET Framework to buy online tickets for movies from different cinemas</li>
+    <li>eCinema is an MVC e-commerce web application built by using C# and ASP.NET Framework to buy online tickets for movies from different cinemas.</li>
     <li>Web application contains all the cinemas, producers and actors with detailed explanations.</li>
     <li>It also includes other important features such as dynamic content rendering with ViewComponenets, Paypal payments integration role-based UI rendering.</li>
     <li>As data storage, used SQL database and Entity Framework used to interact with the data of the project</li>
